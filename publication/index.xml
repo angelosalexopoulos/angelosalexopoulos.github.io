@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Angelos Alexopoulos</title>
-    <link>http://localhost:4321/publication/</link>
-      <atom:link href="http://localhost:4321/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://angelosalexopoulos.github.io/publication/</link>
+      <atom:link href="https://angelosalexopoulos.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://angelosalexopoulos.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>http://localhost:4321/publication/</link>
+      <link>https://angelosalexopoulos.github.io/publication/</link>
     </image>
     
     <item>
       <title>A Bayesian multivariate factor analysis model for causal inference using time series observational data on mixed outcomes</title>
-      <link>http://localhost:4321/publication/causal_ltp/</link>
+      <link>https://angelosalexopoulos.github.io/publication/causal_ltp/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/causal_ltp/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/causal_ltp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A stochastic dynamical model for epidemic nowcasting and forecasting</title>
-      <link>http://localhost:4321/publication/epidemics_forecasting/</link>
+      <link>https://angelosalexopoulos.github.io/publication/epidemics_forecasting/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/epidemics_forecasting/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/epidemics_forecasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A machine learning approach to construct quarterly data on intangible investment for Eurozone</title>
-      <link>http://localhost:4321/publication/intangible/</link>
+      <link>https://angelosalexopoulos.github.io/publication/intangible/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/intangible/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/intangible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks and machine learning to detect Value Added Tax fraud</title>
-      <link>http://localhost:4321/publication/vat/</link>
+      <link>https://angelosalexopoulos.github.io/publication/vat/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/vat/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/vat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance reduction for Metropolis-Hastings samplers</title>
-      <link>http://localhost:4321/publication/variance_reduction/</link>
+      <link>https://angelosalexopoulos.github.io/publication/variance_reduction/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/variance_reduction/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/variance_reduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>http://localhost:4321/publication/jumps/</link>
+      <link>https://angelosalexopoulos.github.io/publication/jumps/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/jumps/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/jumps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Variable Selection for Gaussian copula regression models</title>
-      <link>http://localhost:4321/publication/bvs_copula/</link>
+      <link>https://angelosalexopoulos.github.io/publication/bvs_copula/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/bvs_copula/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/bvs_copula/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
-      <link>http://localhost:4321/publication/mortality/</link>
+      <link>https://angelosalexopoulos.github.io/publication/mortality/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/mortality/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/mortality/</guid>
       <description></description>
     </item>
     
