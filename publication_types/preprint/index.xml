@@ -5,12 +5,20 @@
     <link>https://angelosalexopoulos.github.io/publication_types/preprint/</link>
       <atom:link href="https://angelosalexopoulos.github.io/publication_types/preprint/index.xml" rel="self" type="application/rss+xml" />
     <description>Preprint</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://angelosalexopoulos.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Preprint</title>
       <link>https://angelosalexopoulos.github.io/publication_types/preprint/</link>
     </image>
+    
+    <item>
+      <title>Gaussian Invariance in Markov Chain Monte Carlo</title>
+      <link>https://angelosalexopoulos.github.io/publication/gp_var_red/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://angelosalexopoulos.github.io/publication/gp_var_red/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Networks and machine learning to detect Value Added Tax fraud</title>

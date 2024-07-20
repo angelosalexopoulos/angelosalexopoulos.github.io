@@ -34,6 +34,14 @@
     </item>
     
     <item>
+      <title>Gaussian Invariance in Markov Chain Monte Carlo</title>
+      <link>https://angelosalexopoulos.github.io/publication/gp_var_red/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://angelosalexopoulos.github.io/publication/gp_var_red/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Bayesian multivariate factor analysis model for causal inference using time series observational data on mixed outcomes</title>
       <link>https://angelosalexopoulos.github.io/publication/causal_ltp/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
@@ -270,7 +278,7 @@
 
 
 
-&lt;div id=&#34;chart-714325869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-978632541&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -288,7 +296,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-714325869&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-978632541&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

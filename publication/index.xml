@@ -5,12 +5,20 @@
     <link>https://angelosalexopoulos.github.io/publication/</link>
       <atom:link href="https://angelosalexopoulos.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://angelosalexopoulos.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://angelosalexopoulos.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Gaussian Invariance in Markov Chain Monte Carlo</title>
+      <link>https://angelosalexopoulos.github.io/publication/gp_var_red/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://angelosalexopoulos.github.io/publication/gp_var_red/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Bayesian multivariate factor analysis model for causal inference using time series observational data on mixed outcomes</title>
