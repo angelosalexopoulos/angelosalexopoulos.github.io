@@ -2,82 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angelos Alexopoulos</title>
-    <link>http://localhost:4321/</link>
-      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://angelosalexopoulos.github.io/</link>
+      <atom:link href="https://angelosalexopoulos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Angelos Alexopoulos</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://angelosalexopoulos.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Angelos Alexopoulos</title>
-      <link>http://localhost:4321/</link>
+      <link>https://angelosalexopoulos.github.io/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://localhost:4321/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Gaussian invariance in Markov chain Monte Carlo</title>
-      <link>http://localhost:4321/publication/gp_var_red/</link>
+      <link>https://angelosalexopoulos.github.io/publication/gp_var_red/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/gp_var_red/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/gp_var_red/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bayesian multivariate factor analysis model for causal inference using time series observational data on mixed outcomes</title>
-      <link>http://localhost:4321/publication/causal_ltp/</link>
+      <link>https://angelosalexopoulos.github.io/publication/causal_ltp/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/causal_ltp/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/causal_ltp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A stochastic dynamical model for epidemic nowcasting and forecasting</title>
-      <link>http://localhost:4321/publication/epidemics_forecasting/</link>
+      <link>https://angelosalexopoulos.github.io/publication/epidemics_forecasting/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/epidemics_forecasting/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/epidemics_forecasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DETECTIVE</title>
-      <link>http://localhost:4321/project/detective/</link>
+      <link>https://angelosalexopoulos.github.io/project/detective/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/detective/</guid>
+      <guid>https://angelosalexopoulos.github.io/project/detective/</guid>
       <description>&lt;p&gt;Fraud detection in public revenue in collaboration with the Independent Authority for Public Revenue (IAPR) in Greece&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:4321/projects/</link>
+      <link>https://angelosalexopoulos.github.io/projects/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/projects/</guid>
+      <guid>https://angelosalexopoulos.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network and Machine Learning Approach to Detect Value Added Tax Fraud</title>
+      <link>https://angelosalexopoulos.github.io/event/vienna_june2024/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://angelosalexopoulos.github.io/event/vienna_june2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fraud detection in the Greek fuel market by using machine learning methods</title>
+      <link>https://angelosalexopoulos.github.io/event/iota_june2024/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://angelosalexopoulos.github.io/event/iota_june2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A machine learning approach to construct quarterly data on intangible investment for Eurozone</title>
+      <link>https://angelosalexopoulos.github.io/event/rome_may2024/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://angelosalexopoulos.github.io/event/rome_may2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:4321/post/get-started/</link>
+      <link>https://angelosalexopoulos.github.io/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/get-started/</guid>
+      <guid>https://angelosalexopoulos.github.io/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -161,9 +164,9 @@
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:4321/post/second-brain/</link>
+      <link>https://angelosalexopoulos.github.io/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/second-brain/</guid>
+      <guid>https://angelosalexopoulos.github.io/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -265,9 +268,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:4321/post/data-visualization/</link>
+      <link>https://angelosalexopoulos.github.io/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/data-visualization/</guid>
+      <guid>https://angelosalexopoulos.github.io/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -278,7 +281,7 @@
 
 
 
-&lt;div id=&#34;chart-726439851&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-648935712&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +299,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-726439851&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-648935712&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -471,9 +474,9 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:4321/post/teach-courses/</link>
+      <link>https://angelosalexopoulos.github.io/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/teach-courses/</guid>
+      <guid>https://angelosalexopoulos.github.io/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -526,7 +529,7 @@ Crash --&amp;gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://angelosalexopoulos.github.io/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -587,17 +590,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:4321/experience/</link>
+      <link>https://angelosalexopoulos.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/experience/</guid>
+      <guid>https://angelosalexopoulos.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:4321/teaching/js/</link>
+      <link>https://angelosalexopoulos.github.io/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/js/</guid>
+      <guid>https://angelosalexopoulos.github.io/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -644,7 +647,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://angelosalexopoulos.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -721,9 +724,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:4321/teaching/python/</link>
+      <link>https://angelosalexopoulos.github.io/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/python/</guid>
+      <guid>https://angelosalexopoulos.github.io/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -770,7 +773,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://angelosalexopoulos.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -847,9 +850,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:4321/post/project-management/</link>
+      <link>https://angelosalexopoulos.github.io/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/project-management/</guid>
+      <guid>https://angelosalexopoulos.github.io/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -922,49 +925,49 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>A machine learning approach to construct quarterly data on intangible investment for Eurozone</title>
-      <link>http://localhost:4321/publication/intangible/</link>
+      <link>https://angelosalexopoulos.github.io/publication/intangible/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/intangible/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/intangible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks and machine learning to detect Value Added Tax fraud</title>
-      <link>http://localhost:4321/publication/vat/</link>
+      <link>https://angelosalexopoulos.github.io/publication/vat/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/vat/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/vat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance reduction for Metropolis-Hastings samplers</title>
-      <link>http://localhost:4321/publication/variance_reduction/</link>
+      <link>https://angelosalexopoulos.github.io/publication/variance_reduction/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/variance_reduction/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/variance_reduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>http://localhost:4321/publication/jumps/</link>
+      <link>https://angelosalexopoulos.github.io/publication/jumps/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/jumps/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/jumps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Variable Selection for Gaussian copula regression models</title>
-      <link>http://localhost:4321/publication/bvs_copula/</link>
+      <link>https://angelosalexopoulos.github.io/publication/bvs_copula/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/bvs_copula/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/bvs_copula/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
-      <link>http://localhost:4321/publication/mortality/</link>
+      <link>https://angelosalexopoulos.github.io/publication/mortality/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/mortality/</guid>
+      <guid>https://angelosalexopoulos.github.io/publication/mortality/</guid>
       <description></description>
     </item>
     
