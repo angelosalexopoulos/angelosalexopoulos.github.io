@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Angelos Alexopoulos</title>
-    <link>https://angelosalexopoulos.github.io/project/</link>
-      <atom:link href="https://angelosalexopoulos.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/project/</link>
+      <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://angelosalexopoulos.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://angelosalexopoulos.github.io/project/</link>
+      <link>http://localhost:4321/project/</link>
     </image>
     
     <item>
       <title>DETECTIVE</title>
-      <link>https://angelosalexopoulos.github.io/project/detective/</link>
+      <link>http://localhost:4321/project/detective/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://angelosalexopoulos.github.io/project/detective/</guid>
+      <guid>http://localhost:4321/project/detective/</guid>
       <description>&lt;p&gt;Fraud detection in public revenue in collaboration with the Independent Authority for Public Revenue (IAPR) in Greece&lt;/p&gt;</description>
     </item>
     
