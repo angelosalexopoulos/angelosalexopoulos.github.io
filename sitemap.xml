@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://angelosalexopoulos.github.io/event/aigina_august2024/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://angelosalexopoulos.github.io/event/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://angelosalexopoulos.github.io/publication/gp_var_red/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -51,10 +59,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://angelosalexopoulos.github.io/event/vienna_june2024/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://angelosalexopoulos.github.io/event/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
